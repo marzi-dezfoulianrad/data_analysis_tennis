@@ -37,7 +37,9 @@ matches?
 
 * Python
 * Pandas 
-* Matplotlib / Seaborn
+* Matplotlib
+* Seaborn
+* Numpy
 * Jupyter Notebooks
 
 ---
