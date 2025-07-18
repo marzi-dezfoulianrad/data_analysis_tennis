@@ -1,7 +1,17 @@
-# data_analysis_tennis
-A collaborative data analysis project exploring tennis match statistics.
+# 🎾 Tennis Match Statistics Analysis
 
-The questins that we tried to answer are:
+---
+
+## Project Overview
+
+This collaborative data analysis project delves into a comprehensive dataset of tennis match statistics to uncover insights into player performance, match dynamics, and various trends within professional tennis. Our aim is to answer key questions that provide a deeper understanding of the sport from a data-driven perspective.
+
+---
+
+## Key Research Questions
+
+Our analysis addresses the following questions:
+
  1. How many tennis players are included in the dataset? 
 2. What is the average height of the players? 
 3. Which player has the highest number of wins? 
@@ -21,6 +31,22 @@ matches?
 16. Which player has the highest winning percentage against top 10 ranked opponents? 
 17. What is the average number of breaks of serve per match?
 
-With my real good teammates:
-Seyyed Mohammad Osuli Dezfuli Zade
-Mozhgan Mohammadi
+---
+
+## Technologies Used
+
+* Python
+* Pandas 
+* Matplotlib
+* Seaborn
+* Numpy
+* Jupyter Notebooks
+
+---
+
+## Contributors
+
+This project was a collaborative effort by:
+
+* **Seyyed Mohammad Osuli Dezfuli Zade**
+* **Mozhgan Mohammadi**
