@@ -41,6 +41,8 @@ matches?
 * Seaborn
 * Numpy
 * Jupyter Notebooks
+* Pathlib
+* scipy.stats
 
 ---
 
