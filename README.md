@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This collaborative data analysis project delves into a comprehensive dataset of tennis match statistics to uncover insights into player performance, match dynamics, and various trends within professional tennis. Our aim is to answer key questions that provide a deeper understanding of the sport from a data-driven perspective.
+This data analysis project delves into a comprehensive dataset of tennis match statistics to uncover insights into player performance, match dynamics, and various trends within professional tennis. Our aim is to answer key questions that provide a deeper understanding of the sport from a data-driven perspective.
 
 ---
 
